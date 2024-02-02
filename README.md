@@ -11,15 +11,6 @@
 
 
 
-<h1 align="center" style="font-size: 24px;">What I do at Work...</h1>
-
-<p align="center">
-  <img src="https://github.com/Hantao-Lin/Hantao_Lin/raw/main/Image/Image_20230908231133.jpg" width="400" height="350" alt="Image 3">
-  <img src="https://www.icegif.com/wp-content/uploads/2022/09/icegif-286.gif" width="400" height="350" alt="Image 1">
-  <img src="https://media.giphy.com/media/hi2kPofVMW70k/giphy.gif" width="400" height="350" alt="Image 2">
-  <img src="https://github.com/Hantao-Lin/Hantao_Lin/raw/main/Image/Image_20230908231140.jpg" width="400" height="350" alt="Image 4">
-</p>
-
 
 
 
