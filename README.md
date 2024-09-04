@@ -31,12 +31,10 @@
 </h4>
 
 
-<h1 align="center" style="font-size: 24px;">What I'm Listening...</h1>
 
 
 <p align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=315guecmkwv24otlqiwya4mc6stq&redirect=true">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=315guecmkwv24otlqiwya4mc6stq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" alt="spotify-github-profile">
   </a>
 </p>
 
